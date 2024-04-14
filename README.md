@@ -1,16 +1,15 @@
-# workout_log
+# workout log made with flutter
 
-A new Flutter project.
+Data is stored localy with hive package
 
-## Getting Started
+## still in progress
 
-This project is a starting point for a Flutter application.
+the application is not 100% ready, but most of the functionalities already work
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1713111915](https://github.com/poteznyszymon/workout_tracker/assets/77408864/02f4bc62-da17-48be-b7a8-2d04a83aa026)
+![Screenshot_1713111950](https://github.com/poteznyszymon/workout_tracker/assets/77408864/1dc1c055-cdcb-48d4-8686-5131f779bc53)
+![Screenshot_1713111939](https://github.com/poteznyszymon/workout_tracker/assets/77408864/7997635a-f07e-4d81-80c6-92e73b641f62)
+![Screenshot_1713111930](https://github.com/poteznyszymon/workout_tracker/assets/77408864/70379809-28dd-444c-b573-63ecea82031f)
+![Screenshot_1713111925](https://github.com/poteznyszymon/workout_tracker/assets/77408864/58131332-36ce-4801-ad83-eb56a5599984)
+![Screenshot_1713111920](https://github.com/poteznyszymon/workout_tracker/assets/77408864/12be7f2e-2d51-4baa-951f-ea885e0f0174)
